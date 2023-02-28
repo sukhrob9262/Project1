@@ -1,11 +1,11 @@
-import 'package:untitled18/computer.dart';
-import 'package:untitled18/employee.dart';
-import 'package:untitled18/product.dart';
-import 'package:untitled18/vehicle.dart';
+import '../lib/computer.dart';
+import '../lib/employee.dart';
+import '../lib/product.dart';
+import '../lib/vehicle.dart';
 
 void main(){
+  Employee.interface();
   //Vehicle.interface();
-  // Employee.interface();
   //Product.interface();
   //Computer.interface();
 }
